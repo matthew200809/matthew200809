@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Olá, eu sou Matheus Dos Santos!
 
-<!--
-**matthew200809/matthew200809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Tenho 17 anos e atualmente estudo Desenvolvimento de Sistemas integrado ao Ensino Médio.
 
-Here are some ideas to get you started:
+💻 Sou apaixonado por tecnologia e estou sempre buscando aprender coisas novas na área de programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 São Paulo, Brasil 🇧🇷
+
+🚀 Sobre mim
+🎓 Estudante de Desenvolvimento de Sistemas
+💻 Interessado em programação e tecnologia
+📚 Sempre aprendendo e buscando evoluir
+🧠 Gosto de transformar ideias em projetos
+🇧🇷 São Paulo, Brasil
+🛠️ Tech Stack
+💻 Linguagens & Desenvolvimento
+
+
+
+
+
+
+
+
+🗄️ Banco de Dados
+
+
+
+
+🔧 Ferramentas
+
+
+
+
+
+
+🎯 Objetivos
+
+Meu objetivo é continuar evoluindo como desenvolvedor, criar projetos cada vez melhores e adquirir experiência no mercado de tecnologia.
+
+⭐ Obrigado por visitar meu perfil!
